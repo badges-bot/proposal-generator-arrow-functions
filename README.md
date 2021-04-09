@@ -1,5 +1,7 @@
 # ECMAScript proposal: Generator Arrow Functions
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 **Authors**: Sergey Rubanov
 
 **Champion**: [Hemanth HM](https://github.com/hemanth), Brendan Eich (?)
